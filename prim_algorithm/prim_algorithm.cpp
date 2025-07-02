@@ -89,7 +89,7 @@ void Graph::show_graph() const
 }
 
 // Struct below is devoted to Edges that will be stored inside Min_Heap. Better do segregation between Edge and HeapEdge.
-// They are denote diverse properties.
+// They denote diverse properties.
 struct HeapEdge
 {
     public:
